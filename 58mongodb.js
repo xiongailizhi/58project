@@ -1,0 +1,1 @@
+db.getCollection('item_info3').find({})
